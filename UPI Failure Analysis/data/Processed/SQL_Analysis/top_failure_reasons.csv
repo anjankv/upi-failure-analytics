@@ -1,0 +1,7 @@
+failure_reason,failures,pct_of_failures
+network_issue,247,17.12
+bank_timeout,245,16.98
+gateway_timeout,244,16.91
+unknown_error,238,16.49
+daily_limit_exceeded,236,16.35
+insufficient_balance,233,16.15
