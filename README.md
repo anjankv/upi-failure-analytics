@@ -52,5 +52,5 @@ Python · SQL · Power BI · KPI Design · Time-Series Analytics
 
 ---
 
-## 📁 Repository Structure
-(Include folder structure here)
+
+
